@@ -1,0 +1,13 @@
+{
+  "users": {
+    "brigge": {
+      "first": "Derrick",
+      "last": "Brigge",
+      "email": "brigge@outlook.com",
+      "groups": {
+        "dev": true,
+        "ContaqU": true
+      }
+    }
+  }
+}
